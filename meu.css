@@ -1,0 +1,60 @@
+*{
+	margin:0; /*zera todas as margens externas dos elementos*/
+	padding:0;/*zera todas as margens internas dos elementoas*/
+}
+
+body{
+	 background-color:black;
+}
+
+section#container{
+	width:1200px; /*largura da caixa*/
+	height:400px; /*altura da caixa*/
+    background-color:black; /*cor da caixa*/
+	border:1px solid black; /*espessura da borda, tipo da borda e cor da borda*/
+	margin:auto;/*centraliza a container de acordo com a largura do dispositivo*/
+	
+}section#container h1{
+	font-family:arial; /*tipo da fonte*/
+	font-size:40px;/*tamanho da fonte*/
+	font-weight:400;/*força do negrito*/
+	color:yellow;/*cor da fonte*/
+	margin-top:30px;/*margem superior*/
+}
+
+div#formacao{
+    width:1200px; /*largura da caixa*/
+	height:auto; /*altura da caixa*/
+	background-color:#f5fffa;/*cor de fundo da caixa*/
+	margin-top:40px;/*margem superior*/
+	background-image: url(flores.jpg);
+
+}
+section#container h2{
+	font-family:arial;/*tipo da fonte*/
+	font-size:30px;/*tamanho da fonte*/
+	font-weight:400;/*força do negrito*/
+	color:black; /*cor da fonte*/
+	background-image: url(flores.jpg);
+}
+div#hobbieseinteresses{
+    width:1200px; /*largura da caixa*/
+	height:auto; /*altura da caixa*/
+	background-color:#f5fffa;/*cor de fundo da caixa*/
+	margin-top:40px;/*margem superior*/
+	background-image: url(flores.jpg);
+	}
+
+    div#contato{
+    margin-top: 40px ;
+    width:1200px; /*largura da caixa */
+    height:auto; /*altura da caixa */
+    background-color:#CD853F;
+	background-image: url(flores.jpg);
+	
+
+    div#contato{
+        width:1200px; /*largura da caixa */
+        height:auto; /*altura da caixa */
+        background-color:black;
+    }
